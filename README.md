@@ -1,1 +1,1 @@
-This system is not fully develope yet, there's only 2 users which are the Employees and Accountant Pov. Accountant  can do CRUD(create, read, update, and delete) but the employee can only perform "read" or rather view in its end.
+This system is not fully developed yet. There are only 2 user types: Employee and Accountant. The Accountant can perform CRUD (Create, Read, Update, and Delete) operations, while the Employee can only perform READ operations (view only) on their own records.
